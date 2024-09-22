@@ -49,9 +49,9 @@ Here are some ideas to get you started:
 
 </td>
 
-<!--
+
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<a href="https://www.youtube.com/watch?v=uPD0QOGTmMI&ab_channel=TheWeekndVEVO">
 <strong>Listen to cool music</strong>
 <br />
 <br />
@@ -63,14 +63,11 @@ Here are some ideas to get you started:
 </a>
 </p>
 </td>
--->
+
 
 </tr>
 </table>
 
-<div align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
 
 
 <!-- Footer -->
