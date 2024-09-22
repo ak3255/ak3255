@@ -1,25 +1,3 @@
-<!--
-### Hi there 👋
-It's Aman here.
-[![An image of @ak3255's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ak3255)](https://holopin.io/@ak3255)
--->
-
-<!--
-**ak3255/ak3255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <!-- "Hero" Header -->
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
@@ -69,8 +47,11 @@ Here are some ideas to get you started:
 </table>
 
 
-
 <!-- Footer -->
+
+<!-- Badges -->
+[![An image of @ak3255's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ak3255)](https://holopin.io/@ak3255)
+
 
 <div align="center">
 
