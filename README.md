@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Aman and I like Flutter" src="images/personal_note.svg" />
+  <img height="50" alt="My Name is Aman and I like Flutter and Java" src="images/personal_note.svg" />
   <br />
   <br />
 
